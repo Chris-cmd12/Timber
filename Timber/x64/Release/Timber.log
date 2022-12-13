@@ -1,0 +1,15 @@
+﻿  HelloSFML.cpp
+D:\Study_Perso\Udemy\SFML\Timber\Timber\HelloSFML.cpp(158,43): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+D:\Study_Perso\Udemy\SFML\Timber\Timber\HelloSFML.cpp(162,30): warning C4244: 'initialisation' : conversion de 'int' en 'float', perte possible de données
+D:\Study_Perso\Udemy\SFML\Timber\Timber\HelloSFML.cpp(188,39): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+D:\Study_Perso\Udemy\SFML\Timber\Timber\HelloSFML.cpp(192,30): warning C4244: 'initialisation' : conversion de 'int' en 'float', perte possible de données
+D:\Study_Perso\Udemy\SFML\Timber\Timber\HelloSFML.cpp(218,39): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+D:\Study_Perso\Udemy\SFML\Timber\Timber\HelloSFML.cpp(222,30): warning C4244: 'initialisation' : conversion de 'int' en 'float', perte possible de données
+D:\Study_Perso\Udemy\SFML\Timber\Timber\HelloSFML.cpp(248,39): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+D:\Study_Perso\Udemy\SFML\Timber\Timber\HelloSFML.cpp(252,30): warning C4244: 'initialisation' : conversion de 'int' en 'float', perte possible de données
+  Génération de code en cours
+  2 of 128 functions ( 1.6%) were compiled, the rest were copied from previous compilation.
+    1 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Fin de la génération du code
+  Timber.vcxproj -> D:\Study_Perso\Udemy\SFML\Timber\x64\Release\Timber.exe
